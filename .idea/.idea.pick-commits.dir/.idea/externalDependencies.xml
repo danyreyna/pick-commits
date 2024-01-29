@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="com.github.lppedd.idea-conventional-commit" />
+    <plugin id="com.intellij.csharpier" />
+    <plugin id="com.intellij.grazie.pro" />
+    <plugin id="com.intellij.queryComplexity" />
+    <plugin id="com.koxudaxi.ruff" />
+    <plugin id="intellij.prettierJS" />
+    <plugin id="org.editorconfig.editorconfigjetbrains" />
+    <plugin id="org.sonarlint.idea" />
+    <plugin id="tanvd.grazi" />
+  </component>
+</project>
