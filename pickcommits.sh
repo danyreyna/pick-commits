@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #
-# Required Notice: Copyright Luis Daniel Reyna Pérez (https://devdevdany.com)
+# Required Notice: Copyright Dany Reyna (https://danyreyna.com)
 #
 
 # uncomment to debug
